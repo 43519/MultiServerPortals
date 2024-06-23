@@ -10,6 +10,7 @@ public class PaperMain extends JavaPlugin {
 
         // PaperMC向けの特別な設定や初期化処理があればここに記述する
     }
+    
 
     @Override
     public void onDisable() {
