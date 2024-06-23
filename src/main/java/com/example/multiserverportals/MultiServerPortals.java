@@ -73,7 +73,6 @@ public class MultiServerPortals extends JavaPlugin implements CommandExecutor {
             String serverName = args[2];
 
             // TODO: 新しいサーバーの登録処理を実装する
-
             player.sendMessage("新しいサーバー " + serverName + " を登録しました。");
             return true;
         }
